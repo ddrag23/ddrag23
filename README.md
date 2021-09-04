@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ddrag23
+- 👋 Hi, I’m baidecode
 - 👀 I’m interested in programming world
-- 🌱 I’m currently learning sveltejs and english languange.
-- 📫 How to reach me @baikzoo
+- 🌱 I’m currently learning nuxtjs and english languange.
+- 📫 How to reach me @baidecode
 
 <!---
 ddrag23/ddrag23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
