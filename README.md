@@ -1,6 +1,6 @@
 - 👋 Hi, I’m baidecode
 - 👀 I’m interested in programming world
-- 🌱 I’m currently learning nuxtjs and english languange.
+- 🌱 I’m currently learning dotnet.
 - 📫 How to reach me @baidecode
 
 <!---
